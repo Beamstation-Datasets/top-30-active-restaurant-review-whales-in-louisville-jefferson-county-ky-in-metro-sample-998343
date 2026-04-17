@@ -1,0 +1,22 @@
+{
+  "base_price": 995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 5km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Louisville/Jefferson County, KY-IN Metro Area, US",
+  "export_job_id": "d4b7f969-9b4c-473f-9cac-4e330b6e2358",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 998343,
+  "location_name": "Louisville/Jefferson County, KY-IN",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-louisville-jefferson-county-ky-in-metro-sample-998343",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/998343/beamstation_998343_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
+  "sample_pct": 10.13,
+  "sample_records": 40,
+  "sample_sha256": "a4d15e3c1dfc04754da08d6a53d99d02d1397f1ca3cb25e0f4668a68606992d7",
+  "sample_size_bytes": 168775,
+  "total_records": 395,
+  "updated_at": "2026-04-01T00:48:30.981709+00:00"
+}

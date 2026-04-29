@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f36afca2-3377-418f-ac19-505a7cb7dc43",
+  "export_job_id": "47a6effd-05e5-42a1-a4f8-ae8a73d41449",
   "id_short": 998343,
-  "published_at": "2026-04-23T07:31:10Z",
+  "published_at": "2026-04-29T19:54:07Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-louisville-jefferson-county-ky-in-metro-sample-998343",
   "sample_asset_name": "beamstation_998343_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/998343/beamstation_998343_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
-  "sample_records": 50,
-  "sample_sha256": "d0d4a1022054d5f3eb854509e39d157275ff690e5b8e50d002992b64b06e0161",
-  "sample_size_bytes": 209801,
-  "total_records": 504
+  "sample_records": 61,
+  "sample_sha256": "810105ffe1c245af72508650c8193055f03472d73346f0c91aae148a2d4cdfa4",
+  "sample_size_bytes": 259229,
+  "total_records": 610
 }

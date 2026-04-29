@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Louisville/Jefferson County, KY-IN Metro Area, US
 
-> Free BeamStation sample export with 50 rows and masked direct-contact fields.
+> Free BeamStation sample export with 61 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `998343` |
 | Location | Louisville/Jefferson County, KY-IN |
 | Category | Restaurants |
-| Full dataset size | 504 records |
-| Free sample size | 50 records (9.92%) |
-| Last export | 2026-04-22T07:44:03.308512+00:00 |
+| Full dataset size | 610 records |
+| Free sample size | 61 records (10.0%) |
+| Last export | 2026-04-29T09:28:38.511542+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-louisville-jefferson-county-ky-in-metro-sample-998343/releases/download/sample-latest/beamstation_998343_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
